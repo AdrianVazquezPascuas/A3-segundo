@@ -21,11 +21,13 @@ h2 {
     background-color: darkcyan;
     padding: 1%;
     border-radius: 5px;
+    color: white;
 }
 
-#selectors {
+.selectors {
     border: solid darkcyan 1px;
     border-radius: 5px;
+    padding: 5%;
 }
 
 #universal {
